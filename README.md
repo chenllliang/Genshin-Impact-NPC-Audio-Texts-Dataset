@@ -10,9 +10,10 @@
 例如：`'关于魈…': '仙家的事，我怎么知道？哎呀呀，天机不可泄露。你就别问我啦。'`
 
 ## 使用方法
+main.py
 ```
 import json
-lines = json.load(open("lines.json","r"))
+lines = json.load(open("lines.json","r",encoding="utf-8"))
 print(lines)
 ```
 
