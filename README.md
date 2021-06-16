@@ -1,6 +1,6 @@
-# Genshin Impact NPC Audio Texts Dataset
+# Genshin Impact NPC Chinese Audio Texts Dataset
  
- 收集了原神所有角色的语音文本内容(lines.json)，仅限学术，娱乐用途，请勿用于商业活动，侵删。
+ 收集了原神所有角色的中文语音文本内容(lines.json)，仅限学术，娱乐用途，请勿用于商业活动，侵删。
 
  ## 目前支持的角色
 
